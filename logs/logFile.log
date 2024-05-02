@@ -56,3 +56,168 @@
 [INFO ] 2024-05-02 02:10:40.850 [main] RectangleService - Square of rectangle with id 1 is calculated and is equal to 14.4
 [INFO ] 2024-05-02 02:10:40.850 [main] RectangleService - Perimeter of rectangle with id 2 is calculated and is equal to 24.0
 [INFO ] 2024-05-02 02:10:40.850 [main] RectangleService - Square of rectangle with id 2 is calculated and is equal to 36.0
+[INFO ] 2024-05-02 02:13:46.197 [main] RectangleState - Detecting rectangle with sides: 3.2, 4.5, 3.2, 4.5
+[INFO ] 2024-05-02 02:13:46.200 [main] RectangleState - Rectangle is classified as REGULAR
+[INFO ] 2024-05-02 02:13:46.204 [main] RectangleFactoryImpl - Rectangle with id 1 and sides:3.2, 4.5, 3.2, 4.5 is created
+[INFO ] 2024-05-02 02:13:46.204 [main] RectangleState - Detecting rectangle with sides: 6.0, 6.0, 6.0, 6.0
+[INFO ] 2024-05-02 02:13:46.204 [main] RectangleState - Rectangle is classified as SQUARE
+[INFO ] 2024-05-02 02:13:46.204 [main] RectangleFactoryImpl - Rectangle with id 2 and sides:6.0, 6.0, 6.0, 6.0 is created
+[INFO ] 2024-05-02 02:13:46.204 [main] RectangleState - Detecting rectangle with sides: 1.0, 2.2, 3.0, 4.0
+[WARN ] 2024-05-02 02:13:46.205 [main] RectangleState - Rectangle is classified as INVALID
+[WARN ] 2024-05-02 02:13:46.205 [main] RectangleFactoryImpl - Invalid data, rectangle can't be created
+[INFO ] 2024-05-02 02:13:46.205 [main] RectangleState - Detecting rectangle with sides: -2.0, 3.0, -2.0, 3.0
+[WARN ] 2024-05-02 02:13:46.205 [main] RectangleState - Rectangle is classified as INVALID
+[WARN ] 2024-05-02 02:13:46.205 [main] RectangleFactoryImpl - Invalid data, rectangle can't be created
+[INFO ] 2024-05-02 02:13:46.209 [main] RectangleService - Perimeter of rectangle with id 1 is calculated and is equal to 15.4
+[INFO ] 2024-05-02 02:13:46.209 [main] RectangleService - Square of rectangle with id 1 is calculated and is equal to 14.4
+[INFO ] 2024-05-02 02:13:46.209 [main] RectangleService - Perimeter of rectangle with id 2 is calculated and is equal to 24.0
+[INFO ] 2024-05-02 02:13:46.209 [main] RectangleService - Square of rectangle with id 2 is calculated and is equal to 36.0
+[INFO ] 2024-05-02 02:34:47.398 [main] RectangleState - Detecting rectangle with sides: 3.0, 4.0, 3.0, 4.0
+[INFO ] 2024-05-02 02:34:47.403 [main] RectangleState - Rectangle is classified as REGULAR
+[INFO ] 2024-05-02 02:34:47.405 [main] RectangleService - Square of rectangle with id 1 is calculated and is equal to 12.0
+[INFO ] 2024-05-02 02:34:47.417 [main] RectangleState - Detecting rectangle with sides: 3.0, 4.0, 3.0, 4.0
+[INFO ] 2024-05-02 02:34:47.417 [main] RectangleState - Rectangle is classified as REGULAR
+[INFO ] 2024-05-02 02:34:47.417 [main] RectangleService - Perimeter of rectangle with id 2 is calculated and is equal to 14.0
+[INFO ] 2024-05-02 02:34:47.419 [main] RectangleState - Detecting rectangle with sides: 1.1, 2.0, 1.1, 2.0
+[INFO ] 2024-05-02 02:34:47.420 [main] RectangleState - Rectangle is classified as REGULAR
+[INFO ] 2024-05-02 02:34:47.425 [main] RectangleState - Detecting rectangle with sides: 3.0, 1.0, 2.0, 5.0
+[WARN ] 2024-05-02 02:34:47.425 [main] RectangleState - Rectangle is classified as INVALID
+[WARN ] 2024-05-02 02:34:47.425 [main] RectangleFactoryImpl - Invalid data, rectangle can't be created
+[INFO ] 2024-05-02 02:34:47.437 [main] RectangleState - Detecting rectangle with sides: 5.0, 5.0, 5.0, 5.0
+[INFO ] 2024-05-02 02:34:47.437 [main] RectangleState - Rectangle is classified as SQUARE
+[INFO ] 2024-05-02 02:34:47.442 [main] RectangleFactoryImpl - Rectangle with id 5 and sides:5.0, 5.0, 5.0, 5.0 is created
+[INFO ] 2024-05-02 02:34:47.448 [main] RectangleState - Detecting rectangle with sides: 1.1, 1.1, 1.1, 1.1
+[INFO ] 2024-05-02 02:34:47.448 [main] RectangleState - Rectangle is classified as SQUARE
+[INFO ] 2024-05-02 02:34:47.450 [main] RectangleState - Detecting rectangle with sides: 3.0, 4.0, 3.0, 4.0
+[INFO ] 2024-05-02 02:34:47.450 [main] RectangleState - Rectangle is classified as REGULAR
+[INFO ] 2024-05-02 02:34:47.450 [main] RectangleFactoryImpl - Rectangle with id 7 and sides:3.0, 4.0, 3.0, 4.0 is created
+[INFO ] 2024-05-02 02:35:17.564 [main] RectangleState - Detecting rectangle with sides: 3.0, 1.0, 2.0, 5.0
+[WARN ] 2024-05-02 02:35:17.568 [main] RectangleState - Rectangle is classified as INVALID
+[WARN ] 2024-05-02 02:35:17.569 [main] RectangleFactoryImpl - Invalid data, rectangle can't be created
+[INFO ] 2024-05-02 02:35:25.631 [main] RectangleState - Detecting rectangle with sides: 3.0, 1.0, 2.0, 5.0
+[WARN ] 2024-05-02 02:35:25.637 [main] RectangleState - Rectangle is classified as INVALID
+[WARN ] 2024-05-02 02:35:25.637 [main] RectangleFactoryImpl - Invalid data, rectangle can't be created
+[INFO ] 2024-05-02 02:37:05.636 [main] RectangleState - Detecting rectangle with sides: 5.0, 5.0, 0.0, 5.0
+[WARN ] 2024-05-02 02:37:05.638 [main] RectangleState - Rectangle is classified as INVALID
+[WARN ] 2024-05-02 02:37:05.638 [main] RectangleFactoryImpl - Invalid data, rectangle can't be created
+[INFO ] 2024-05-02 02:37:09.298 [main] RectangleState - Detecting rectangle with sides: 5.0, 5.0, 0.0, 5.0
+[WARN ] 2024-05-02 02:37:09.300 [main] RectangleState - Rectangle is classified as INVALID
+[WARN ] 2024-05-02 02:37:09.301 [main] RectangleFactoryImpl - Invalid data, rectangle can't be created
+[INFO ] 2024-05-02 02:37:22.614 [main] RectangleState - Detecting rectangle with sides: 5.0, 5.0, 0.0, 5.0
+[WARN ] 2024-05-02 02:37:22.617 [main] RectangleState - Rectangle is classified as INVALID
+[WARN ] 2024-05-02 02:37:22.617 [main] RectangleFactoryImpl - Invalid data, rectangle can't be created
+[INFO ] 2024-05-02 02:37:41.848 [main] RectangleState - Detecting rectangle with sides: 5.0, 5.0, 1.0, 5.0
+[WARN ] 2024-05-02 02:37:41.852 [main] RectangleState - Rectangle is classified as INVALID
+[WARN ] 2024-05-02 02:37:41.852 [main] RectangleFactoryImpl - Invalid data, rectangle can't be created
+[INFO ] 2024-05-02 03:51:14.145 [main] RectangleState - Detecting rectangle with sides: 3.2, 4.5, 3.2, 4.5
+[INFO ] 2024-05-02 03:51:14.147 [main] RectangleState - Rectangle is classified as REGULAR
+[INFO ] 2024-05-02 03:51:14.152 [main] RectangleFactoryImpl - Rectangle with id 1 and sides:3.2, 4.5, 3.2, 4.5 is created
+[INFO ] 2024-05-02 03:51:14.153 [main] RectangleState - Detecting rectangle with sides: 6.0, 6.0, 6.0, 6.0
+[INFO ] 2024-05-02 03:51:14.153 [main] RectangleState - Rectangle is classified as SQUARE
+[INFO ] 2024-05-02 03:51:14.153 [main] RectangleFactoryImpl - Rectangle with id 2 and sides:6.0, 6.0, 6.0, 6.0 is created
+[INFO ] 2024-05-02 03:51:14.153 [main] RectangleState - Detecting rectangle with sides: 1.0, 2.2, 3.0, 4.0
+[WARN ] 2024-05-02 03:51:14.153 [main] RectangleState - Rectangle is classified as INVALID
+[INFO ] 2024-05-02 03:51:14.153 [main] RectangleFactoryImpl - Rectangle with id 3 and sides:1.0, 2.2, 3.0, 4.0 is created
+[WARN ] 2024-05-02 03:51:14.153 [main] RectangleFactoryImpl - Invalid data, rectangle can't be created
+[INFO ] 2024-05-02 03:51:14.154 [main] RectangleState - Detecting rectangle with sides: -2.0, 3.0, -2.0, 3.0
+[WARN ] 2024-05-02 03:51:14.154 [main] RectangleState - Rectangle is classified as INVALID
+[INFO ] 2024-05-02 03:51:14.154 [main] RectangleFactoryImpl - Rectangle with id 4 and sides:-2.0, 3.0, -2.0, 3.0 is created
+[WARN ] 2024-05-02 03:51:14.154 [main] RectangleFactoryImpl - Invalid data, rectangle can't be created
+[INFO ] 2024-05-02 03:51:14.158 [main] RectangleService - Perimeter of rectangle with id 1 is calculated and is equal to 15.4
+[INFO ] 2024-05-02 03:51:14.158 [main] RectangleService - Square of rectangle with id 1 is calculated and is equal to 14.4
+[INFO ] 2024-05-02 03:51:14.159 [main] RectangleService - Perimeter of rectangle with id 2 is calculated and is equal to 24.0
+[INFO ] 2024-05-02 03:51:14.159 [main] RectangleService - Square of rectangle with id 2 is calculated and is equal to 36.0
+[INFO ] 2024-05-02 04:13:41.662 [main] RectangleState - Detecting rectangle with sides: 3.2, 4.5, 3.2, 4.5
+[INFO ] 2024-05-02 04:13:41.664 [main] RectangleState - Rectangle is classified as REGULAR
+[INFO ] 2024-05-02 04:13:41.669 [main] RectangleFactoryImpl - Rectangle with id 1 and sides:3.2, 4.5, 3.2, 4.5 is created
+[INFO ] 2024-05-02 04:13:41.669 [main] RectangleState - Detecting rectangle with sides: 6.0, 6.0, 6.0, 6.0
+[INFO ] 2024-05-02 04:13:41.669 [main] RectangleState - Rectangle is classified as SQUARE
+[INFO ] 2024-05-02 04:13:41.669 [main] RectangleFactoryImpl - Rectangle with id 2 and sides:6.0, 6.0, 6.0, 6.0 is created
+[INFO ] 2024-05-02 04:13:41.670 [main] RectangleState - Detecting rectangle with sides: 1.0, 2.2, 3.0, 4.0
+[WARN ] 2024-05-02 04:13:41.670 [main] RectangleState - Rectangle is classified as INVALID
+[INFO ] 2024-05-02 04:13:41.670 [main] RectangleFactoryImpl - Rectangle with id 3 and sides:1.0, 2.2, 3.0, 4.0 is created
+[WARN ] 2024-05-02 04:13:41.670 [main] RectangleFactoryImpl - Invalid data, rectangle can't be created
+[INFO ] 2024-05-02 04:13:41.670 [main] RectangleState - Detecting rectangle with sides: -2.0, 3.0, -2.0, 3.0
+[WARN ] 2024-05-02 04:13:41.670 [main] RectangleState - Rectangle is classified as INVALID
+[INFO ] 2024-05-02 04:13:41.670 [main] RectangleFactoryImpl - Rectangle with id 4 and sides:-2.0, 3.0, -2.0, 3.0 is created
+[WARN ] 2024-05-02 04:13:41.671 [main] RectangleFactoryImpl - Invalid data, rectangle can't be created
+[INFO ] 2024-05-02 04:13:41.675 [main] RectangleService - Perimeter of rectangle with id 1 is calculated and is equal to 15.4
+[INFO ] 2024-05-02 04:13:41.675 [main] RectangleService - Square of rectangle with id 1 is calculated and is equal to 14.4
+[INFO ] 2024-05-02 04:13:41.676 [main] RectangleService - Perimeter of rectangle with id 2 is calculated and is equal to 24.0
+[INFO ] 2024-05-02 04:13:41.676 [main] RectangleService - Square of rectangle with id 2 is calculated and is equal to 36.0
+[INFO ] 2024-05-02 04:16:27.657 [main] RectangleState - Detecting rectangle with sides: 3.2, 4.5, 3.2, 4.5
+[INFO ] 2024-05-02 04:16:27.659 [main] RectangleState - Rectangle is classified as REGULAR
+[INFO ] 2024-05-02 04:16:27.666 [main] RectangleFactoryImpl - Rectangle with id 1 and sides:3.2, 4.5, 3.2, 4.5 is created
+[INFO ] 2024-05-02 04:16:27.666 [main] RectangleState - Detecting rectangle with sides: 6.0, 6.0, 6.0, 6.0
+[INFO ] 2024-05-02 04:16:27.667 [main] RectangleState - Rectangle is classified as SQUARE
+[INFO ] 2024-05-02 04:16:27.667 [main] RectangleFactoryImpl - Rectangle with id 2 and sides:6.0, 6.0, 6.0, 6.0 is created
+[INFO ] 2024-05-02 04:16:27.667 [main] RectangleState - Detecting rectangle with sides: 1.0, 2.2, 3.0, 4.0
+[WARN ] 2024-05-02 04:16:27.667 [main] RectangleState - Rectangle is classified as INVALID
+[INFO ] 2024-05-02 04:16:27.667 [main] RectangleFactoryImpl - Rectangle with id 3 and sides:1.0, 2.2, 3.0, 4.0 is created
+[WARN ] 2024-05-02 04:16:27.668 [main] RectangleFactoryImpl - Invalid data, rectangle requires 4 sides
+[INFO ] 2024-05-02 04:16:27.668 [main] RectangleState - Detecting rectangle with sides: -2.0, 3.0, -2.0, 3.0
+[WARN ] 2024-05-02 04:16:27.668 [main] RectangleState - Rectangle is classified as INVALID
+[INFO ] 2024-05-02 04:16:27.668 [main] RectangleFactoryImpl - Rectangle with id 4 and sides:-2.0, 3.0, -2.0, 3.0 is created
+[WARN ] 2024-05-02 04:16:27.668 [main] RectangleFactoryImpl - Invalid data, rectangle requires 4 sides
+[INFO ] 2024-05-02 04:16:27.672 [main] RectangleService - Perimeter of rectangle with id 1 is calculated and is equal to 15.4
+[INFO ] 2024-05-02 04:16:27.673 [main] RectangleService - Square of rectangle with id 1 is calculated and is equal to 14.4
+[INFO ] 2024-05-02 04:16:27.673 [main] RectangleService - Perimeter of rectangle with id 2 is calculated and is equal to 24.0
+[INFO ] 2024-05-02 04:16:27.673 [main] RectangleService - Square of rectangle with id 2 is calculated and is equal to 36.0
+[INFO ] 2024-05-02 04:27:26.023 [main] RectangleState - Detecting rectangle with sides: 3.0, 4.0, 3.0, 4.0
+[INFO ] 2024-05-02 04:27:26.026 [main] RectangleState - Rectangle is classified as REGULAR
+[INFO ] 2024-05-02 04:27:26.029 [main] RectangleService - Square of rectangle with id 1 is calculated and is equal to 12.0
+[INFO ] 2024-05-02 04:27:26.048 [main] RectangleState - Detecting rectangle with sides: 5.0, 2.0, 1.0, 5.0
+[WARN ] 2024-05-02 04:27:26.048 [main] RectangleState - Rectangle is classified as INVALID
+[INFO ] 2024-05-02 04:27:26.053 [main] RectangleFactoryImpl - Rectangle with id 2 and sides:5.0, 2.0, 1.0, 5.0 is created
+[WARN ] 2024-05-02 04:27:26.053 [main] RectangleFactoryImpl - Invalid data, rectangle requires 4 sides
+[INFO ] 2024-05-02 04:27:26.065 [main] RectangleState - Detecting rectangle with sides: 3.0, 4.0, 3.0, 4.0
+[INFO ] 2024-05-02 04:27:26.065 [main] RectangleState - Rectangle is classified as REGULAR
+[INFO ] 2024-05-02 04:27:26.065 [main] RectangleService - Perimeter of rectangle with id 3 is calculated and is equal to 14.0
+[INFO ] 2024-05-02 04:27:26.069 [main] RectangleState - Detecting rectangle with sides: 1.1, 2.0, 1.1, 2.0
+[INFO ] 2024-05-02 04:27:26.070 [main] RectangleState - Rectangle is classified as REGULAR
+[INFO ] 2024-05-02 04:27:26.076 [main] RectangleState - Detecting rectangle with sides: 5.0, 5.0, 5.0, 5.0
+[INFO ] 2024-05-02 04:27:26.076 [main] RectangleState - Rectangle is classified as SQUARE
+[INFO ] 2024-05-02 04:27:26.076 [main] RectangleFactoryImpl - Rectangle with id 5 and sides:5.0, 5.0, 5.0, 5.0 is created
+[INFO ] 2024-05-02 04:27:26.084 [main] RectangleState - Detecting rectangle with sides: 1.1, 1.1, 1.1, 1.1
+[INFO ] 2024-05-02 04:27:26.085 [main] RectangleState - Rectangle is classified as SQUARE
+[INFO ] 2024-05-02 04:27:26.087 [main] RectangleState - Detecting rectangle with sides: 3.0, 4.0, 3.0, 4.0
+[INFO ] 2024-05-02 04:27:26.087 [main] RectangleState - Rectangle is classified as REGULAR
+[INFO ] 2024-05-02 04:27:26.087 [main] RectangleFactoryImpl - Rectangle with id 7 and sides:3.0, 4.0, 3.0, 4.0 is created
+[INFO ] 2024-05-02 04:27:51.653 [main] RectangleState - Detecting rectangle with sides: 5.0, 2.0, 1.0, 5.0
+[WARN ] 2024-05-02 04:27:51.659 [main] RectangleState - Rectangle is classified as INVALID
+[INFO ] 2024-05-02 04:27:51.666 [main] RectangleFactoryImpl - Rectangle with id 1 and sides:5.0, 2.0, 1.0, 5.0 is created
+[WARN ] 2024-05-02 04:27:51.666 [main] RectangleFactoryImpl - Invalid data, rectangle requires 4 sides
+[INFO ] 2024-05-02 04:28:08.562 [main] RectangleState - Detecting rectangle with sides: 3.0, 4.0, 3.0, 4.0
+[INFO ] 2024-05-02 04:28:08.567 [main] RectangleState - Rectangle is classified as REGULAR
+[INFO ] 2024-05-02 04:28:08.570 [main] RectangleService - Square of rectangle with id 1 is calculated and is equal to 12.0
+[INFO ] 2024-05-02 04:28:08.590 [main] RectangleState - Detecting rectangle with sides: 3.0, 4.0, 3.0, 4.0
+[INFO ] 2024-05-02 04:28:08.590 [main] RectangleState - Rectangle is classified as REGULAR
+[INFO ] 2024-05-02 04:28:08.591 [main] RectangleService - Perimeter of rectangle with id 2 is calculated and is equal to 14.0
+[INFO ] 2024-05-02 04:28:08.595 [main] RectangleState - Detecting rectangle with sides: 1.1, 2.0, 1.1, 2.0
+[INFO ] 2024-05-02 04:28:08.595 [main] RectangleState - Rectangle is classified as REGULAR
+[INFO ] 2024-05-02 04:28:08.601 [main] RectangleState - Detecting rectangle with sides: 5.0, 5.0, 5.0, 5.0
+[INFO ] 2024-05-02 04:28:08.602 [main] RectangleState - Rectangle is classified as SQUARE
+[INFO ] 2024-05-02 04:28:08.606 [main] RectangleFactoryImpl - Rectangle with id 4 and sides:5.0, 5.0, 5.0, 5.0 is created
+[INFO ] 2024-05-02 04:28:08.614 [main] RectangleState - Detecting rectangle with sides: 1.1, 1.1, 1.1, 1.1
+[INFO ] 2024-05-02 04:28:08.614 [main] RectangleState - Rectangle is classified as SQUARE
+[INFO ] 2024-05-02 04:28:08.616 [main] RectangleState - Detecting rectangle with sides: 3.0, 4.0, 3.0, 4.0
+[INFO ] 2024-05-02 04:28:08.616 [main] RectangleState - Rectangle is classified as REGULAR
+[INFO ] 2024-05-02 04:28:08.617 [main] RectangleFactoryImpl - Rectangle with id 6 and sides:3.0, 4.0, 3.0, 4.0 is created
+[INFO ] 2024-05-02 04:28:24.666 [main] RectangleState - Detecting rectangle with sides: 3.2, 4.5, 3.2, 4.5
+[INFO ] 2024-05-02 04:28:24.669 [main] RectangleState - Rectangle is classified as REGULAR
+[INFO ] 2024-05-02 04:28:24.675 [main] RectangleFactoryImpl - Rectangle with id 1 and sides:3.2, 4.5, 3.2, 4.5 is created
+[INFO ] 2024-05-02 04:28:24.675 [main] RectangleState - Detecting rectangle with sides: 6.0, 6.0, 6.0, 6.0
+[INFO ] 2024-05-02 04:28:24.675 [main] RectangleState - Rectangle is classified as SQUARE
+[INFO ] 2024-05-02 04:28:24.675 [main] RectangleFactoryImpl - Rectangle with id 2 and sides:6.0, 6.0, 6.0, 6.0 is created
+[INFO ] 2024-05-02 04:28:24.676 [main] RectangleState - Detecting rectangle with sides: 1.0, 2.2, 3.0, 4.0
+[WARN ] 2024-05-02 04:28:24.676 [main] RectangleState - Rectangle is classified as INVALID
+[INFO ] 2024-05-02 04:28:24.676 [main] RectangleFactoryImpl - Rectangle with id 3 and sides:1.0, 2.2, 3.0, 4.0 is created
+[WARN ] 2024-05-02 04:28:24.676 [main] RectangleFactoryImpl - Invalid data, rectangle requires 4 sides
+[INFO ] 2024-05-02 04:28:24.676 [main] RectangleState - Detecting rectangle with sides: -2.0, 3.0, -2.0, 3.0
+[WARN ] 2024-05-02 04:28:24.676 [main] RectangleState - Rectangle is classified as INVALID
+[INFO ] 2024-05-02 04:28:24.677 [main] RectangleFactoryImpl - Rectangle with id 4 and sides:-2.0, 3.0, -2.0, 3.0 is created
+[WARN ] 2024-05-02 04:28:24.677 [main] RectangleFactoryImpl - Invalid data, rectangle requires 4 sides
+[INFO ] 2024-05-02 04:28:24.681 [main] RectangleService - Perimeter of rectangle with id 1 is calculated and is equal to 15.4
+[INFO ] 2024-05-02 04:28:24.681 [main] RectangleService - Square of rectangle with id 1 is calculated and is equal to 14.4
+[INFO ] 2024-05-02 04:28:24.681 [main] RectangleService - Perimeter of rectangle with id 2 is calculated and is equal to 24.0
+[INFO ] 2024-05-02 04:28:24.681 [main] RectangleService - Square of rectangle with id 2 is calculated and is equal to 36.0
